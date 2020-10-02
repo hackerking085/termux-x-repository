@@ -4,6 +4,7 @@ This repository contains various X/GUI packages (such as **dosbox**) that can be
 ## How to enable this repository
 Make sure that needed tools are installed:
 ```
+pkg update
 pkg upgrade
 pkg install apt-transport-https nano gnupg wget
 ```
